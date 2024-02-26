@@ -1,6 +1,6 @@
 ## Hi there! 👋 You are talking a Full Stack Developer.
 ### My name is Vinicius Souza, nice to meet you!
-#### - 🔭 I’m currently working on Python, POO, SQL Workbench
+#### - 🔭 I’m currently working on Python, POO, SQL Workbench, Fast API, Flask, SQLite
 #### - 🌱 I’m currently learning ADS
 #### - 📫 How to reach me: www.instagram.com/dev_vini.s
 <!--
