@@ -1,4 +1,4 @@
-## Olá!! Eu sou Vinicius Souza
+## Olá! Eu sou Vinicius Souza
 
 #### - 🔭 Possuo experiência nas linguagens Python, POO, SQL Workbench, Fast API, Flask, SQLite 3
 
